@@ -28,7 +28,7 @@ html {
 
 body {
   margin: 0;
-  padding: 0
+  padding: 0;
 }
 
 ul,
@@ -55,7 +55,8 @@ pre,
 abbr,
 button {
   margin: 0;
-  padding: 0
+  padding: 0;
+  letter-spacing: 0.1em;
 }
 
 pre,
@@ -5588,7 +5589,8 @@ html.no-touch.no-reduced-motion .tile.tile-list[data-focus-method=key] .media--v
 }
 
 .pagebody-copy {
-  margin-bottom: 1.4211em
+  margin-bottom: 1.4211em;
+  letter-spacing: 0.1em;
 }
 
 .pagebody-copy:lang(ar) {
