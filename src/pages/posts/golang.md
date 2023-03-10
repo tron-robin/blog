@@ -8,7 +8,7 @@ cover:
     url: 'https://pic.lookcos.cn/i/usr/uploads/2022/04/2067928922.png'
     square: 'https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Alibaug-canoe_Full-Bleed-Image.jpg.large_2x.jpg'
     alt: 'cover'
-tags: ["源码研究", "标准库", "golang", "gin"]
+tags: ["源码研究", "标准库", "golang", "阅读笔记"]
 theme: 'light'
 featured: false
 ---
