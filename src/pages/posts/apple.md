@@ -5,14 +5,14 @@ pubDate: 2023-03-10
 description: '近期天气很好，准备到处走走。做下攻略，避坑、省时、省心。'
 author: 'Apple Newsroom'
 cover:
-    url: '../../imgs/u=2981831811,2175137414&fm=253&fmt=auto&app=138&f=JPEG.webp'
-    square: 'https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Alibaug-canoe_Full-Bleed-Image.jpg.large_2x.jpg'
+    url: 'https://spilar-imgs.obs.cn-south-1.myhuaweicloud.com/202303101428.webp'
+    square: 'https://spilar-imgs.obs.cn-south-1.myhuaweicloud.com/202303101428.webp'
     alt: 'cover'
 tags: ["特写", "环保", "Apple", "印度", "红树林", "保育", "新闻稿","思绪"]
 theme: 'dark'
 featured: true
 ---
-
+verification-spilar-cn-idvldai.qiniudns.com
 ![在印度马哈拉施特拉邦，Apple 与 Applied Environmental Research Foundation 展开合作，对红树林进行保护与培育。这一海岸森林生态系统可以吸收和存储大气中的二氧化碳。|wide](https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Alibaug-canoe_Full-Bleed-Image.jpg.large_2x.jpg)
 
 在马哈拉施特拉邦繁华的滨海城市孟买以南仅约 96 公里的地方，出现了一个截然不同的世界。繁华都市的摩天大厦、餐厅、酒店、购物区、不计其数的“嘟嘟车”与现代汽车逐渐消失，未铺装的道路、棕榈树、山羊、拉车的牛、小型露天市场和路边餐馆出现在视野里。
