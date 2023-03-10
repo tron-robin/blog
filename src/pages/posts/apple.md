@@ -8,7 +8,7 @@ cover:
     url: 'https://spilar-imgs.obs.cn-south-1.myhuaweicloud.com/202303101428.webp'
     square: 'https://spilar-imgs.obs.cn-south-1.myhuaweicloud.com/202303101428.webp'
     alt: 'cover'
-tags: ["特写", "环保", "Apple", "印度", "红树林", "保育", "新闻稿","思绪"]
+tags: ["游记&攻略"]
 theme: 'dark'
 featured: true
 ---
