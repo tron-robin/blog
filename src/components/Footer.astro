@@ -1,7 +1,6 @@
 ---
-import { SITE_TITLE, SITE_EMAIL } from "../consts";
+import { SITE_TITLE, SITE_EMAIL, SITE_NAME } from "../consts";
 const { theme } = Astro.props;
-import { SITE_NAME } from "../consts";
 const date = new Date();
 const year = date.getFullYear();
 ---
@@ -16,7 +15,7 @@ const year = date.getFullYear();
             <div class="email">Email: {SITE_EMAIL}</div>
           </div>
 
-          <div class="item products">
+          <!-- <div class="item products">
             <div class="item-title">作品</div>
             <a href="/" target="_blank">本站</a>
             <a href="https://the.top" target="_blank">TOP Link</a>
@@ -28,18 +27,18 @@ const year = date.getFullYear();
             <a href="https://twitter.com/austinit" target="_blank">Twitter</a>
             <a href="https://github.com/austin2035" target="_blank">Github</a>
             <a href="https://t.me/austin2035" target="_blank">Telegram</a>
-          </div>
+          </div> -->
 
           <div class="item resources">
             <div class="item-title">友链</div>
-            <a href="https://the.top">THE.TOP</a>
+            <a href="//github.com/austin2035/astro-air-blog">astro-air-blog</a>
+            <!-- <a href="https://the.top">THE.TOP</a> -->
           </div>
         </div>
       </div>
       <div class="bottom">
         <div class="copyright">
-          &copy; {`2018-${year}  ${SITE_NAME}`} 
-          <a href="//github.com/austin2035/astro-air-blog">astro-air-blog</a>
+          &copy; {`2018-${year}  ${SITE_NAME}`}
         </div>
       </div>
     </div>
