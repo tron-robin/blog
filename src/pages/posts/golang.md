@@ -6,7 +6,7 @@ description: '很多Go web框架都通过封装 net/http 来实现核心功能�
 author: 'Austin'
 cover:
     url: 'https://pic.lookcos.cn/i/usr/uploads/2022/04/2067928922.png'
-    square: 'https://pic.lookcos.cn/i/usr/uploads/2022/04/2067928922.png'
+    square: 'https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Alibaug-canoe_Full-Bleed-Image.jpg.large_2x.jpg'
     alt: 'cover'
 tags: ["源码研究", "标准库", "golang", "gin"]
 theme: 'light'
